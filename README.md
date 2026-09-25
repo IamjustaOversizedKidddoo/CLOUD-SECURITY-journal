@@ -9,14 +9,14 @@
 ## 🗺️ Roadmap Progress
 
 ### Phase 1: Core Foundations, AWS & Automation (Days 1–30)
-- [ ] **Week 1 (Days 1–10): Networking, Linux & Git**
+- [x] **Week 1 (Days 1–10): Networking, Linux & Git**
   - [x] [Day 01: TCP/IP Fundamentals, 3-Way Handshake & Packet Inspection](notes/day01-tcpip.md)
   - [x] [Days 02–03: IPv4, Subnetting, CIDR Math & the OSI Model](notes/day02-03-subnetting-osi.md)
   - [x] [Days 04–05: Ports, Protocols (HTTP/S, SSH, DNS) & TLS Cryptography](notes/day04-05-protocols.md)
   - [x] [Days 06–07: Linux Security, File Permissions, Audit Logs & SSH Hardening](notes/day06-07-linux.md)
   - [x] [Days 08–09: Git Architecture, Commit Signing, SSH Keys & PR Workflows](notes/day08-09-git.md)
-  - [ ] Day 10: AWS Ubuntu Provisioning & Network Diagnostic Tooling
-  - **📌 Deliverable 1:** *Automated Port Scanner Script (Python/Bash)*
+  - [x] [Day 10: AWS Ubuntu Provisioning & Network Diagnostic Tooling](notes/day10-aws-port-scanner.md)
+  - **📌 Deliverable 1:** [Automated Port Scanner Script (Python)](projects/port-scanner/)
 - [ ] **Week 2 (Days 11–20): AWS Core Security & Python Automation**
   - [ ] Days 11–12: AWS Global Infrastructure, IAM Access Keys & Security Controls
   - [ ] Days 13–14: EC2 Security Hardening & S3 Public Access Prevention

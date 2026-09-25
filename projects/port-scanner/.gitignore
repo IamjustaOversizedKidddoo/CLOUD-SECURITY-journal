@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Sensitive AWS and SSH credentials (NEVER COMMIT)
+*.pem
+*.key
+*.id_rsa
+.env
+credentials
+
+# OS files
+.DS_Store
+Thumbs.db
