@@ -14,7 +14,7 @@
   - [x] [Days 02–03: IPv4, Subnetting, CIDR Math & the OSI Model](notes/day02-03-subnetting-osi.md)
   - [x] [Days 04–05: Ports, Protocols (HTTP/S, SSH, DNS) & TLS Cryptography](notes/day04-05-protocols.md)
   - [x] [Days 06–07: Linux Security, File Permissions, Audit Logs & SSH Hardening](notes/day06-07-linux.md)
-  - [ ] Days 08–09: Git Architecture, Commit Signing, SSH Keys & PR Workflows
+  - [x] [Days 08–09: Git Architecture, Commit Signing, SSH Keys & PR Workflows](notes/day08-09-git.md)
   - [ ] Day 10: AWS Ubuntu Provisioning & Network Diagnostic Tooling
   - **📌 Deliverable 1:** *Automated Port Scanner Script (Python/Bash)*
 - [ ] **Week 2 (Days 11–20): AWS Core Security & Python Automation**
